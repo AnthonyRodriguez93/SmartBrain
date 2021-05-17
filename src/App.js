@@ -13,6 +13,7 @@ import Register from './components/register/Register';
 
 
 
+
 const particlesOptions = {
   particles: {
     number: {
